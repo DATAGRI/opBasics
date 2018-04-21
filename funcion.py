@@ -9,3 +9,4 @@ def  sum_basic():
     print('el resultado de la suma es: ',s)
 
 oper_avanced.suma_avanced()
+oper_avanced.resta_avanced()
