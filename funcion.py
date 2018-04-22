@@ -10,3 +10,4 @@ def  sum_basic():
 
 oper_avanced.suma_avanced()
 oper_avanced.resta_avanced()
+oper_avanced.mult_avanced()
