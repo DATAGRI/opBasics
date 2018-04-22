@@ -16,3 +16,12 @@ def resta_avanced():
     r = x + (y + z) + x
 
     print('el resultado de la suma es: ', r)
+
+def mult_avanced():
+    x = int(input('1er numero: '))
+    y = int(input('2do numero: '))
+    z = int(input('3er numero: '))
+
+    m = x * (y * z) + x
+
+    print('el resultado de la multiplicacion es: ', m)
